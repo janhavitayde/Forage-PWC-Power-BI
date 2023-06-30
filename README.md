@@ -1,5 +1,6 @@
 # Forage-PWC-Power-BI
-Virtual Internship Project
+Hello I have completed the Virtual Internship Project by PWC.
+Here is a brief overview of my work in Power BI. 
 
 
 Task 1 - Call Centre Trends - Visualising customer and agent behaviour.
@@ -19,10 +20,8 @@ Task 2 - Customer Retention - Customer demographics and insights.
 
 Task 3 - Diversity & Inclusion - Gender Balance in Executive Suite
 
-
+![image](https://github.com/janhavitayde/Forage-PWC-Power-BI/assets/99615172/edd0622c-1778-402e-a838-7c77bb30084d)
 <img width="577" alt="image" src="https://github.com/janhavitayde/Forage-PWC-Power-BI/assets/99615172/edd0622c-1778-402e-a838-7c77bb30084d">
-
-
 
 <img width="576" alt="image" src="https://github.com/janhavitayde/Forage-PWC-Power-BI/assets/99615172/4c669108-696c-494a-9727-b2575391f4e1">
 
