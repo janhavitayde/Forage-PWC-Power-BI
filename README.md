@@ -4,7 +4,9 @@ Virtual Internship Project
 
 Task 1 - Visualising customer and agent behaviour.
 
+![image](https://github.com/janhavitayde/Forage-PWC-Power-BI/assets/99615172/e339e3b2-031d-49ec-98e2-8bfd8235c791)
 
+![image](https://github.com/janhavitayde/Forage-PWC-Power-BI/assets/99615172/30db8d7f-b9cc-4eca-8944-3c839eb00a5a)
 
 
 Task 2 - Customer demographics and insights.
